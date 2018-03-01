@@ -35,4 +35,4 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
-
+Learn could have a ongoing open source project to which students could contribute as they learn
